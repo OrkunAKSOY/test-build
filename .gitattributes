@@ -1,0 +1,2 @@
+Capastrophe_Data/resources.assets filter=lfs diff=lfs merge=lfs -text
+Capastrophe_Data/resources.assets.resS filter=lfs diff=lfs merge=lfs -text
